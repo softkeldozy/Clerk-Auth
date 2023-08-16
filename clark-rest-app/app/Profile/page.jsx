@@ -6,5 +6,5 @@ const ProfilePge =()=>{
             <UserProfile />               
         </>
     )
-
-};export default ProfilePge()
+};
+export default ProfilePge()

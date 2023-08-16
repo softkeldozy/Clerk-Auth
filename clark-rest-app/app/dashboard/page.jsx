@@ -1,4 +1,4 @@
-const DashboardPage = ()=>{
+const Dashboard = ()=>{
     return(
         <>
             <h1 className="text-2xl font-bold mb-5">Dashboard</h1>
@@ -6,4 +6,4 @@ const DashboardPage = ()=>{
         </>
     )
 }
-export default DashboardPage
+export default Dashboard
